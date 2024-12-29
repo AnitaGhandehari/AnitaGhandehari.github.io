@@ -25,11 +25,10 @@ author:
   name             : "Anita Ghandehari"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ UC Irvine"
-  location         : "Irvine, California, USA"
+  location         : #"Irvine, California, USA"
   employer         : "University of California Irvine"
   uri              : # URL
   email            : "ghandeha@uci.edu" 
-  CV               : "/files/Anita Ghandehari CV_Internship_2025.pdf"
   resume           : "/files/Anita Ghandehari CV_Internship_2025.pdfs"
 
 
