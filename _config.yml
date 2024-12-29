@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+me# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -29,7 +29,7 @@ author:
   employer         : "University of California Irvine"
   uri              : # URL
   email            : "ghandeha@uci.edu"
-  CV               : "/files/Anita Ghandehari CV_Internship_2025.pdf"
+  resume           : "/files/Anita Ghandehari CV_Internship_2025.pdf"
 
 
   # Academic websites
