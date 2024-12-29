@@ -25,7 +25,6 @@ Selected Publications
   Matthew Lo, Jingfeng Chen, Siana Jimenez, Francisco Aguirre, Anita Ghandehari, Zafer Sahinoglu, Farzad Ahmadkhanlou, _In BSN 2024_
 - **[A passive, reusable, and resonating wearable sensing system for on-demand, non-invasive, and wireless molecular stress biomarker detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:u5HHmVD_uO8C)**
   Shingirirai Chakoma, Xiaochang Pei, Huiting Qin, Anita Ghandehari, Sahar NajafiKhoshnoo, Jerome Rajendran, Rahim Esfandyarpour, _In Nano Research_ 
-
 - **[]()**
 - **[]()**
 - **[]()**
