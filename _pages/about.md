@@ -16,7 +16,7 @@ Research Interests
 
 Selected Publications
 ------
-[Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:Tyk-4Ss8FVUC)Anita Ghandehari, Jorge A Tavares-Negrete, Jerome Rajendran, Qian Yi, Rahim Esfandyarpour
+**[Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:Tyk-4Ss8FVUC)**, Anita Ghandehari, Jorge A Tavares-Negrete, Jerome Rajendran, Qian Yi, Rahim Esfandyarpour
 
 Create content & metadata
 ------
