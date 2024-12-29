@@ -25,7 +25,7 @@ author:
   name             : "Anita Ghandehari"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate @ UC Irvine"
-  location         : #"Irvine, California, USA"
+  location         : "Irvine, California, USA"
   employer         : "University of California Irvine"
   uri              : # URL
   email            : "ghandeha@uci.edu" 
@@ -75,6 +75,7 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
+  resume           : "https://drive.google.com/file/d/1AAQFScvRnKZrYIBrinMCU6uA4YzlldYL/view?usp=sharing"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
