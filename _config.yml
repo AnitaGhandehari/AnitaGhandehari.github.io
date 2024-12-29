@@ -29,7 +29,6 @@ author:
   employer         : "University of California Irvine"
   uri              : # URL
   email            : "ghandeha@uci.edu" 
-  CV               : "Hello Hi"
 
 
   # Academic websites
@@ -75,7 +74,6 @@ author:
   xing             : # Username
   youtube          : # Username
   zhihu            : # Username
-  CV               : "https://drive.google.com/file/d/1AAQFScvRnKZrYIBrinMCU6uA4YzlldYL/view?usp=sharing"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
