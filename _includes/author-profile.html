@@ -38,8 +38,8 @@
       {% endif %}
 
       <!-- Font Awesome and Academicons icons / Academic websites -->
-      {% if page.author.CV %}
-      <li> <a href="{{ page.author.CV }}" target="_blank"><i class="fas fa-file-pdf"></i> CV </a></li>
+      {% if author.resume %}
+      <li> <a href="{{ author.resume }}" target="_blank"><i class="fas fa-file-pdf"></i> CV </a></li>
       {% endif %}
       {% if author.arxiv %}
         <li><a href="{{ author.arxiv }}"><i class="ai ai-arxiv ai-fw icon-pad-right"></i>arXiv</a></li>
