@@ -17,7 +17,7 @@ Research Interests
 Selected Publications
 ------
 - **The Role of Large Language Models in Emergency Care: A Comprehensive Benchmarking Study**
-  Borna Naderi, Longsha Liu, Anita Ghandehari, Neil Bhavsar, Darius Khoshons, Shriman Balasubramanian, Christian Davidson, Robert Tanouye, Justin Norden, Andrew Taylor, Rahul Sharma, Alexander Fortenko, _Under Review In **NEJM AI**_ 😍
+  \n Borna Naderi, Longsha Liu, Anita Ghandehari, Neil Bhavsar, Darius Khoshons, Shriman Balasubramanian, Christian Davidson, Robert Tanouye, Justin Norden, Andrew Taylor, Rahul Sharma, Alexander Fortenko, _Under Review In **NEJM AI**_ 😍
 - **Machine-Learning Based Multi-Modal Battery-less Wearable Patch for Stress Monitoring**
   Anita Ghandehari\*, Xiaochang Pei\*, Jerome Rajendran, Sang Won Lee, Shingirirai Michael Chakoma, Sahar Najafi Khoshnoo, Qian Yi, Rahim Esfandyarpour, _Under review in **Nature Communication**_ 💥😁
 - **In-Situ Regenerable, Environmentally Stable, Multimodal Molecular Sensing Wearable Bioelectronics for Long-Term Health Assessment in Everyday Settings**
