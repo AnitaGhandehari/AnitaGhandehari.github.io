@@ -16,7 +16,19 @@ Research Interests
 
 Selected Publications
 ------
-**[Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:Tyk-4Ss8FVUC)**, Anita Ghandehari, Jorge A Tavares-Negrete, Jerome Rajendran, Qian Yi, Rahim Esfandyarpour
+- **[Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:Tyk-4Ss8FVUC)**
+  Anita Ghandehari, Jorge A Tavares-Negrete, Jerome Rajendran, Qian Yi, Rahim Esfandyarpour, _In Discover Nano (IF: 6.5)_
+- **[Optimizing NFC-Based Wearable Sensors for Arterial Pulse Monitoring: A Comparative Study of Sampling Rates and Machine Learning Models](https://ieeexplore.ieee.org/abstract/document/10780749/)**
+  Anita Ghandehari, Jorge Alfonso Tavares-Negrete, Xiaochang Pei, Jerome Rajendran, Shingirirai Chakoma, Rahim Esfandyarpour, _In BSN 2024_
+- **[EEMD. VMD, DMD, and FFT in Remote Photoplethysmography for Contactless Heart Rate and Respiration Rate Measurement](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:IjCSPb-OGe4C)**
+  Matthew Lo, Jingfeng Chen, Siana Jimenez, Francisco Aguirre, Anita Ghandehari, Zafer Sahinoglu, Farzad Ahmadkhanlou, _BSN 2024_
+- **[]()**
+- **[]()**
+- **[]()**
+- **[]()**
+- **[]()**
+- **[]()**
+- **[]()**
 
 Create content & metadata
 ------
