@@ -6,7 +6,7 @@
 
 main:
   - title: "CV"
-  url: "/files/Anita Ghandehari CV_Internship_2025.pdf"
+    url: "/files/Anita Ghandehari CV_Internship_2025.pdf"
     
   # - title: "Publications"
   #   url: /publications/
