@@ -16,7 +16,7 @@ Research Interests
 
 Selected Publications
 ------
-- **[The Role of Large Language Models in Emergency Care: A Comprehensive Benchmarking Study]**, Borna Naderi, Longsha Liu, Anita Ghandehari, Neil Bhavsar, Darius Khoshons, Shriman Balasubramanian, Christian Davidson, Robert Tanouye, Justin Norden, Andrew Taylor, Rahul Sharma, Alexander Fortenko, _Under Review In NEJM AI_
+- **The Role of Large Language Models in Emergency Care: A Comprehensive Benchmarking Study**, Borna Naderi, Longsha Liu, Anita Ghandehari, Neil Bhavsar, Darius Khoshons, Shriman Balasubramanian, Christian Davidson, Robert Tanouye, Justin Norden, Andrew Taylor, Rahul Sharma, Alexander Fortenko, _Under Review In NEJM AI_
 - **[Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:Tyk-4Ss8FVUC)**
   Anita Ghandehari, Jorge A Tavares-Negrete, Jerome Rajendran, Qian Yi, Rahim Esfandyarpour, _In Discover Nano_
 - **[Optimizing NFC-Based Wearable Sensors for Arterial Pulse Monitoring: A Comparative Study of Sampling Rates and Machine Learning Models](https://ieeexplore.ieee.org/abstract/document/10780749/)**
