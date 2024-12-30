@@ -15,9 +15,11 @@ Research Interests
 ------
 - **Nov. 2024:** I’m so excited and honored to be chosen as a 2024-2025 Public Impact Fellow 🏆😍! Such an incredible opportunity!
 - **Oct. 2024:** Yay! I’ve been awarded the SPIE Photonics West 2025 Student Conference Support 🏅🤩! See you all in San Francisco 🌉🚃!
-- **Aug. 2024:** Our team got 3 paper accpeted in SPIE Photonics West 2025!
+- **Sept. 2024:** Our team got 3 paper accpeted in SPIE Photonics West 2025!
+- **Aug. 2024:** I recieved the IEEE BSN Student Travel Award! Next stop: Chicago🌃
+- **July 2024:** Excited to share that 4 of our papers have been accepted for IEEE BSN 2025! 💪😎
+- **July 2024:** Our collaborative paper with Mitsubishi Electric Innovation Center (MELIC) have been accepted for IEEE BSN 2025!
 
-  
 Selected Publications
 ------
 - **The Role of Large Language Models in Emergency Care: A Comprehensive Benchmarking Study**, Borna Naderi, Longsha Liu, Anita Ghandehari, Neil Bhavsar, Darius Khoshons, Shriman Balasubramanian, Christian Davidson, Robert Tanouye, Justin Norden, Andrew Taylor, Rahul Sharma, Alexander Fortenko, _Under Review In **NEJM AI**_ 😍
