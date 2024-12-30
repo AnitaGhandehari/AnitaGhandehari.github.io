@@ -17,8 +17,8 @@ Research Interests
 - **Oct. 2024:** Yay! I’ve been awarded the **SPIE Photonics West 2025** Student Conference Support 🏅🤩! See you all in San Francisco 🌉🚃!
 - **Sept. 2024:** Our team got **three** paper accpeted in **SPIE Photonics West 2025**!
 - **Aug. 2024:** I recieved the **IEEE BSN 2024** Student Travel Award! Next stop: Chicago🌃
-- **July 2024:** Excited to share that **four** of our papers have been accepted for **IEEE BSN 2025**! 💪😎
-- **July 2024:** Part of our collaborative work on [**HealthCam**](https://www.youtube.com/watch?v=4G3-HSs7Vks) project with **Mitsubishi Electric** have been accepted for **IEEE BSN 2025**!
+- **July 2024:** Excited to share that **four** of our papers have been accepted for **IEEE BSN 2024**! 💪😎
+- **July 2024:** Part of our collaborative work on [**HealthCam**](https://www.youtube.com/watch?v=4G3-HSs7Vks) project with **Mitsubishi Electric** have been accepted for **IEEE BSN 2024**!
 
 Selected Publications
 ------
