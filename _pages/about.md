@@ -13,8 +13,11 @@ Research Interests
 
 🔥News
 ------
-- **November 2024:** I’m so excited and honored to be chosen as a 2024-2025 Public Impact Fellow 🏆😍! Such an incredible opportunity!
-- **October 2024:** Yay! I’ve been awarded the SPIE Photonics West 2025 Student Conference Support 🏅🤩! See you all in San Francisco 🌉🚃!
+- **Nov. 2024:** I’m so excited and honored to be chosen as a 2024-2025 Public Impact Fellow 🏆😍! Such an incredible opportunity!
+- **Oct. 2024:** Yay! I’ve been awarded the SPIE Photonics West 2025 Student Conference Support 🏅🤩! See you all in San Francisco 🌉🚃!
+- **Aug. 2024:** Our team got 3 paper accpeted in SPIE Photonics West 2025!
+
+  
 Selected Publications
 ------
 - **The Role of Large Language Models in Emergency Care: A Comprehensive Benchmarking Study**, Borna Naderi, Longsha Liu, Anita Ghandehari, Neil Bhavsar, Darius Khoshons, Shriman Balasubramanian, Christian Davidson, Robert Tanouye, Justin Norden, Andrew Taylor, Rahul Sharma, Alexander Fortenko, _Under Review In **NEJM AI**_ 😍
@@ -25,22 +28,3 @@ Selected Publications
 - **[EEMD. VMD, DMD, and FFT in Remote Photoplethysmography for Contactless Heart Rate and Respiration Rate Measurement](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:IjCSPb-OGe4C)**, Matthew Lo, Jingfeng Chen, Siana Jimenez, Francisco Aguirre, Anita Ghandehari, Zafer Sahinoglu, Farzad Ahmadkhanlou, _In BSN 2024_
 - **[A passive, reusable, and resonating wearable sensing system for on-demand, non-invasive, and wireless molecular stress biomarker detection](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=D10CZPQAAAAJ&sortby=pubdate&citation_for_view=D10CZPQAAAAJ:u5HHmVD_uO8C)**, Shingirirai Chakoma\*, Xiaochang Pei\*, Huiting Qin\*, Anita Ghandehari, Sahar NajafiKhoshnoo, Jerome Rajendran, Rahim Esfandyarpour, _In Nano Research_ 
 
-Create content & metadata
-------
-
-
-**Markdown generator**
-
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
