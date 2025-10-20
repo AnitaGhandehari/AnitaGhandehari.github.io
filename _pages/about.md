@@ -12,6 +12,9 @@ I am a 4th-year PhD candidate in the department of Electrical Engineering and Co
 
 🔥News
 ------
+- **Sept. 2025:** I succesfully completed my Internship at Nokia Bell Labs Artificial Intelligence Research Team! 🤩 Where I desinged **TrackAgent** a comprehensive AI agent for real-time pose-aware tracking and reasoning for industrial safety under occlusion and visual similarity 😎!
+- **June 2025:** Our paper *"Development of a Functional 3D Colon Model for the Induction and Monitoring of Diseases"* was accepted in **Advanced Science** 😎
+- **March 2025:** We WON the **best poster award** at Flexible Microelectronics in Bioelectronics symposium for my paper "Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network"** 🏆🎉! 
 - **Nov. 2024:** I’m so excited and honored to be chosen as a **2024-2025 Public Impact Fellow** 🏆😍! Such an incredible opportunity!
 - **Oct. 2024:** Yay! I’ve been awarded the **SPIE Photonics West 2025** Student Conference Support 🏅🤩! See you all in San Francisco 🌉🚃!
 - **Sept. 2024:** Our team got **three** paper accepted in **SPIE Photonics West 2025**!
