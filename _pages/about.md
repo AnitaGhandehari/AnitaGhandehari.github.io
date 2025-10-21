@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a 4th-year PhD candidate in the department of Electrical Engineering and Computer Science at UC Irvine, where I am very fortunate to be advised by [Prof. Rahim Esfandyarpour](https://faculty.sites.uci.edu/esfandyarpourlab/). I earned my BSc from the University of Tehran, and I’m very proud to be part of its alumni🎓. 
+I am a 5th-year PhD candidate in the department of Electrical Engineering and Computer Science at UC Irvine, where I am very fortunate to be advised by [Prof. Rahim Esfandyarpour](https://faculty.sites.uci.edu/esfandyarpourlab/). I earned my BSc from the University of Tehran, and I’m very proud to be part of its alumni🎓. 
 
 
 
