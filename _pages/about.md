@@ -14,7 +14,7 @@ I am a 4th-year PhD candidate in the department of Electrical Engineering and Co
 ------
 - **Sept. 2025:** I succesfully completed my Internship at [Nokia Bell Labs Artificial Intelligence Research Team!](https://www.nokia.com/bell-labs/research/air-lab/) 🎯 Where I desinged **TrackAgent** a comprehensive AI agent for real-time pose-aware tracking and reasoning for industrial safety under occlusion and visual similarity 😎!
 <div align="center">
-  <img src="../images/TrackAgent.png" alt="TrackAgent" width="100%" height="100%">
+  <img src="../images/TrackAgent.png" alt="TrackAgent" width="50%" height="50%">
 </div>
 
 
