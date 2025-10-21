@@ -14,7 +14,7 @@ I am a 4th-year PhD candidate in the department of Electrical Engineering and Co
 ------
 - **Sept. 2025:** I succesfully completed my Internship at [Nokia Bell Labs Artificial Intelligence Research Team!](https://www.nokia.com/bell-labs/research/air-lab/) 🎯 Where I desinged **TrackAgent** a comprehensive AI agent for real-time pose-aware tracking and reasoning for industrial safety under occlusion and visual similarity 😎!
 <div align="center">
-  <img src="../images/TrackAgent.png" alt="TrackAgent" width="50%" height="50%">
+  <img src="../images/TrackAgent.png" alt="TrackAgent" width="70%" height="70%">
 </div>
 - **June 2025:** Our paper "Development of a Functional 3D Colon Model for the Induction and Monitoring of Diseases" was accepted in **Advanced Science** 😎
 - **March 2025:** We WON the **best poster award** at Flexible Microelectronics in Bioelectronics symposium for my paper "Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network"** 🏆🎉! 
