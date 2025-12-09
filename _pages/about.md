@@ -12,6 +12,8 @@ I am a 5th-year PhD candidate in the department of Electrical Engineering and Co
 
 🔥News
 ------
+- **Dec. 2025:** 🚨 STOP THE PRESSES! 🚨 That HUGE stress-assessment wearable project I've been leading? 🤯 The paper just got accepted into Nature Communications! 🤩 Mark the day: 12/08/2025! 🗓️
+And get this: this is our research team's FIRST EVER Nature paper! 🥇 I'm talking about the Nature Communications! 📰 Seriously the best news ever. Time to celebrate hard! 🍾🥳🥂🎉🚀
 - **Sept. 2025:** I succesfully completed my Internship at [Nokia Bell Labs Artificial Intelligence Research Team!](https://www.nokia.com/bell-labs/research/air-lab/) 🎯 Where I desinged **TrackAgent** a comprehensive AI agent for real-time pose-aware tracking and reasoning for industrial safety under occlusion and visual similarity 😎!
 - **June 2025:** Our paper "Development of a Functional 3D Colon Model for the Induction and Monitoring of Diseases" was accepted in **Advanced Science** 😎
 - **March 2025:** We won the **best poster award** at Flexible Microelectronics in Bioelectronics symposium for my paper "Optimization of process parameters in 3D-nanomaterials printing for enhanced uniformity, quality, and dimensional precision using physics-guided artificial neural network" 🏆🎉! 
