@@ -15,7 +15,7 @@ I am a 5th-year PhD candidate in the department of Electrical Engineering and Co
 ------
 - **Dec. 2025:**
   
-  **🚨🚨🚨 STOP THE PRESSES! 🚨🚨🚨**
+  **STOP THE PRESSES!**
   
   That HUGE stress-assessment wearable project I've been leading? 🤯 The paper just got accepted into **Nature Communications**! 🤩 Best PhD day: **12/08/2025**! 🗓️
   
