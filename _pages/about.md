@@ -14,9 +14,7 @@ I am a 5th-year PhD candidate in the department of Electrical Engineering and Co
 ------
 ------
 - **Dec. 2025:**
-  
-  **STOP THE PRESSES!**
-  
+- 
   That HUGE stress-assessment wearable project I've been leading? 🤯 The paper just got accepted into **Nature Communications**! 🤩 Best PhD day: **12/08/2025**! 🗓️
   
   And get this: this is our research team's **FIRST EVER Nature paper!** 🥇 I'm talking about *the* Nature Communications! 📰 Seriously the best news ever. Time to celebrate hard! 🍾🥳🎉🚀
